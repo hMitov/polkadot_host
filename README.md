@@ -2,8 +2,7 @@
 
 ## Description
 
-This project is a **REST API
-** server designed to interact with the Polkadot blockchain. It retrieves data via RPC calls and exposes endpoints to
+This project is a **REST API** server designed to interact with the Polkadot blockchain. It retrieves data via RPC calls and exposes endpoints to
 access this information. This implementation uses
 **Spring Boot** and the **EmeraldPay Polkaj library** for interaction with Polkadot nodes.
 ---
